@@ -1,4 +1,4 @@
-I am learning from this repository by Andrej Karpathy.
+I am learning from this repository by Andrej Karpathy. I added a train.sh script to run in 4 node cluster with 1 RTX 5070 Ti GPU each. 
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
