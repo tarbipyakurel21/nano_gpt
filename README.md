@@ -1,4 +1,4 @@
-
+I am learning from this repository by Andrej Karpathy.
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
